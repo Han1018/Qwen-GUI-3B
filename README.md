@@ -65,3 +65,7 @@ Qwen-GUI-3B is a lightweight GUI grounding model fine-tuned from Qwen2.5-VL-3B. 
 
 ### ScreenSpot-Pro
 Todo
+
+## Hardware
+- GPU: 1 × RTX 4090
+- Time: <= 48 hrs
