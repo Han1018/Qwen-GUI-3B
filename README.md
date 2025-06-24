@@ -6,8 +6,8 @@ Qwen-GUI-3B is a lightweight GUI grounding model fine-tuned from Qwen2.5-VL-3B. 
 - [😊Training Data]()-Todo
 
 
-<h3>🔥 Updates</h3>
-- 2025/06/25: [Qwen-GUI-3B](https://huggingface.co/zonghanHZH/Qwen-GUI-3B) Model weights is available at huggingface.
+## 🔥 Updates
+- [x] 2025/06/25: [Qwen-GUI-3B](https://huggingface.co/zonghanHZH/Qwen-GUI-3B) model weights are available on Hugging Face.
 
 
 <h3>Release Plans:</h3>
