@@ -22,6 +22,7 @@ Qwen-GUI-3B is a lightweight GUI grounding model fine-tuned from Qwen2.5-VL-3B. 
     - [ ] ScreenSpotv2-pro
   - [ ] Inference Code
   - [ ] Training Code
+- [ ] Paper
 - [ ] Training-Data
 
 
