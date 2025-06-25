@@ -1,5 +1,5 @@
 # Qwen-GUI-3B
-Qwen-GUI-3B is a lightweight GUI grounding model fine-tuned from Qwen2.5-VL-3B. Trained on just 24K samples using a 2-stage strategy, it achieves strong performance and is fully trainable on a single RTX 4090.
+Qwen-GUI-3B — A lightweight, resolution-aware GUI grounding model trained with only 24K samples on a single RTX 4090.
 
 - [😊 Model Weights](https://huggingface.co/zonghanHZH/Qwen-GUI-3B)
 - [😊 Demo](): Todo
