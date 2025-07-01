@@ -17,7 +17,7 @@ Qwen-GUI-3B — A lightweight GUI grounding model optimized for high-resolution 
 ## Release Plans
 
 - [x] Model Weights
-- [ ] Online Demo (HF Spaces)
+- [x] Paper
 - [ ] Code
   - [ ] Experiments
     - [ ] ScreenSpot
@@ -25,7 +25,6 @@ Qwen-GUI-3B — A lightweight GUI grounding model optimized for high-resolution 
     - [ ] ScreenSpotv2-pro
   - [ ] Inference Code
   - [ ] Training Code
-- [ ] Paper
 - [ ] Training-Data
 
 
