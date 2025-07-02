@@ -21,11 +21,11 @@ ZonUI-3B — A lightweight GUI grounding model optimized for high-resolution scr
 - [x] Paper
 - [x] Training-Data (24K examples)
 - [ ] Code
+  - [X] Inference Code
   - [ ] Experiments
     - [ ] ScreenSpot
     - [ ] ScreenSpotv2
     - [ ] ScreenSpotv2-pro
-  - [ ] Inference Code
   - [ ] Training Code
 
 
