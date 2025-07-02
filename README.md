@@ -4,20 +4,22 @@ ZonUI-3B — A lightweight GUI grounding model optimized for high-resolution scr
 ![Training Flow](assets/sota_perf_and_rader_compare.jpg)
 <!-- ![Training Flow](assets/training_flow_solid.jpg) -->
 
-- [😊 Model Weights](https://huggingface.co/zonghanHZH/Qwen-GUI-3B)
+- [😊 Model Weights](https://huggingface.co/zonghanHZH/ZonUI-3B)
 - [📑 Paper](https://arxiv.org/abs/2506.23491)
-- [😊 Training Data](): Todo
+- [�️ Training Data](https://huggingface.co/zonghanHZH)
 
 
 ## 🔥 Updates
+- [x] 2025/7/2: Training datasets (24K examples) released: [UGround-V1-8k](https://huggingface.co/datasets/zonghanHZH/UGround-V1-8k), [AMEX-8k](https://huggingface.co/datasets/zonghanHZH/AMEX-8k), and [ShowUI-web-8k](https://huggingface.co/datasets/zonghanHZH/ShowUI-web-8k).
 - [x] 2025/6/30: We release the [arXiv paper](https://arxiv.org/abs/2506.23491).
-- [x] 2025/6/25: [`ZonUI-3B`](https://huggingface.co/zonghanHZH/Qwen-GUI-3B) model weights are available on Hugging Face.
+- [x] 2025/6/25: [`ZonUI-3B`](https://huggingface.co/zonghanHZH/ZonUI-3B) model weights are available on Hugging Face.
 
 
 ## Release Plans
 
 - [x] Model Weights
 - [x] Paper
+- [x] Training-Data (24K examples)
 - [ ] Code
   - [ ] Experiments
     - [ ] ScreenSpot
@@ -25,7 +27,6 @@ ZonUI-3B — A lightweight GUI grounding model optimized for high-resolution scr
     - [ ] ScreenSpotv2-pro
   - [ ] Inference Code
   - [ ] Training Code
-- [ ] Training-Data
 
 
 ## Main Results
