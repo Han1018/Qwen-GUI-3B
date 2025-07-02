@@ -6,7 +6,7 @@ ZonUI-3B — A lightweight GUI grounding model optimized for high-resolution scr
 
 - [😊 Model Weights](https://huggingface.co/zonghanHZH/ZonUI-3B)
 - [📑 Paper](https://arxiv.org/abs/2506.23491)
-- [�️ Training Data](https://huggingface.co/zonghanHZH)
+- [🤗 Training Data](https://huggingface.co/zonghanHZH)
 
 
 ## 🔥 Updates
