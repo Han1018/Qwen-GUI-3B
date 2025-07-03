@@ -37,13 +37,13 @@ prepare/trans_coord_2_ori.ipynb
 ```
 
 ### Generate Sample Training Data
-To create a small sample dataset for observing training data patterns:
+To create a small sample dataset for observing training data during training:
 ```bash
 # Execute the sample data generation notebook
 datasets/Training-data/sample.ipynb
 ```
 
-This will generate `image` & `metadata` directory containing sample examples from the training datasets. This sample data is useful for:
+This will generate `image` & `metadata` directories containing sample examples from the training datasets. This sample data is useful for:
 - Monitoring training data quality
 - Quick testing and debugging
 
