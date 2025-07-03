@@ -10,6 +10,7 @@ ZonUI-3B — A lightweight GUI grounding model optimized for high-resolution scr
 
 
 ## 🔥 Updates
+- [x] 2025/7/3: Inference code released.
 - [x] 2025/7/2: Training datasets (24K examples) released: [UGround-V1-8k](https://huggingface.co/datasets/zonghanHZH/UGround-V1-8k), [AMEX-8k](https://huggingface.co/datasets/zonghanHZH/AMEX-8k), and [ShowUI-web-8k](https://huggingface.co/datasets/zonghanHZH/ShowUI-web-8k).
 - [x] 2025/6/30: We release the [arXiv paper](https://arxiv.org/abs/2506.23491).
 - [x] 2025/6/25: [`ZonUI-3B`](https://huggingface.co/zonghanHZH/ZonUI-3B) model weights are available on Hugging Face.
