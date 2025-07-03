@@ -1,0 +1,35 @@
+#!/bin/bash
+deepspeed train.py \
+  --wandb_key="" \
+  --model_id='Qwen/Qwen2.5-VL-3B-Instruct' \
+  --version='Qwen/Qwen2.5-VL-3B-Instruct' \
+  --dataset_dir="./datasets/" \
+  --log_base_dir="./logs/" \
+  --epochs=12 \
+  --steps_per_epoch=122 \
+  --batch_size=1 \
+  --grad_accumulation_steps=48 \
+  --model_max_length=4096 \
+  --exp_id="debug" \
+  --val_dataset="screenspot2"  \
+  --val_json="hf_test_full"  \
+  --precision="bf16" \
+  --attn_imple="sdpa" \
+  --workers=0 \
+  --lora_r=0 \
+  --lora_alpha=16  \
+  --min_visual_tokens=256  \
+  --max_visual_tokens=1280  \
+  --num_turn=30 \
+  --crop_min=1 \
+  --crop_max=1 \
+  --record_sample \
+  --random_sample \
+  --lr=0.0001 \
+  --warmup_steps=122 \
+  --ds_zero="zero2" \
+  --gradient_checkpointing  \
+  --uniform_prompt \
+  --eval_only \
+  --local_weight \
+  --local_weight_dir="zonghanHZH/ZonUI-3B"
