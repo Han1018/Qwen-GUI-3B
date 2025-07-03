@@ -5,3 +5,24 @@ __pycache__/
 
 # C extensions
 *.so
+
+# Datasets (large files)
+datasets/AMEX-8k/
+datasets/ScreenSpot-v2/
+datasets/ScreenSpot/
+datasets/ShowUI-desktop/
+datasets/ShowUI-web-8k/
+datasets/Training-data/images/
+datasets/Training-data/metadata/
+datasets/UGround-V1-8k/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
