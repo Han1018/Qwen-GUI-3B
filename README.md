@@ -16,6 +16,10 @@ ZonUI-3B — A lightweight GUI grounding model optimized for high-resolution scr
 - [x] 2025/6/25: [`ZonUI-3B`](https://huggingface.co/zonghanHZH/ZonUI-3B) model weights are available on Hugging Face.
 
 
+## Hardware
+- GPU: 1 × RTX 4090 24GB
+- Time: <= 48 hrs
+
 ## Main Results
 
 ### ScreenSpot
@@ -57,7 +61,3 @@ ZonUI-3B — A lightweight GUI grounding model optimized for high-resolution scr
 
 ### ScreenSpot-Pro
 Todo
-
-## Hardware
-- GPU: 1 × RTX 4090
-- Time: <= 48 hrs
