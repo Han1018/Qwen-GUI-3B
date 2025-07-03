@@ -58,6 +58,20 @@ ZonUI-3B — A lightweight GUI grounding model optimized for high-resolution scr
 | UI-TARS-2B               | 84.7   | 95.2        | 79.1        | 90.7          | 68.6           | 87.2      | 78.3      |
 | **ZonUI-3B**        | **86.4** | **97.9**    | **84.8**    | **93.8**      | **75.0**       | **91.0**  | 75.8      |
 
+## 🫶 Acknowledgement
+We would like to acknowledge [ShowUI](https://github.com/showlab/ShowUI) for making their code and data publicly available, which was instrumental to our development.
 
-### ScreenSpot-Pro
-Todo
+## ✍️ BibTeX
+If our work contributes to your research, we would appreciate it if you could cite our paper.
+
+```
+@misc{hsieh2025zonui3b,
+  title        = {ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding},
+  author       = {Hsieh, ZongHan and Wei, Tzer-Jen and Yang, ShengJing},
+  year         = {2025},
+  howpublished = {\url{https://arxiv.org/abs/2506.23491}},
+  note         = {arXiv:2506.23491 [cs.CV], version 2, last revised 1 Jul 2025}
+}
+```
+
+
